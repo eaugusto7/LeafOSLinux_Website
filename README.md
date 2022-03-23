@@ -8,4 +8,3 @@ O que é o LeafOS:
   
 LeafOS - Simples e leve como uma folha
 
-![image](https://user-images.githubusercontent.com/53271581/159490455-c1eaaa38-53f4-4a11-8ccb-f1ac801a10d8.png)
